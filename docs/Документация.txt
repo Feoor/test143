@@ -1,0 +1,5 @@
+git add "file.name" // Добавить файл в репозиторий
+git add . // Добавить все файлы в репозиторий
+
+git commit -m "description" // Обновить репозиторий в ветке "master"
+git push -u origin main // Объединить все ветки в одну главную
